@@ -1,6 +1,6 @@
 # Laravel CRUD Produits avec Catégories
 ---
-**![Description](EXPRESS.PNG)**
+
 
 
 ## Description
